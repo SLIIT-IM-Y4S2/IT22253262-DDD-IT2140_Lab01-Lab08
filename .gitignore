@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code workspace files
+*.code-workspace
+
+# Java build output
+target/
+build/
+bin/
+*.class
+
+# JDBC driver jars (downloaded separately)
+*.jar
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
